@@ -1,8 +1,21 @@
 .nav {
     grid-area: n;
     background-color: burlywood;
+    padding: 20px;
+    /*text-decoration: none;*/
 }
 
 .item {
     color: white;
+    text-decoration: none;
+}
+
+.active {
+    color: gold;
+    text-decoration: none;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: gold;
 }

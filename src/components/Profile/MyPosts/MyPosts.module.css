@@ -1,4 +1,9 @@
-.item {
+.postsBlock {
+    padding: 10px;
+}
 
+.posts {
+    /*padding-top: 10px;*/
+    margin-top: 10px;
 }
 
